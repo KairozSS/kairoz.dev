@@ -1,5 +1,5 @@
 [[redirects]]
-from = "/chencho/*"
-to = "dynamic-toffee-ff8eaa.netlify.app/chencho/:splat"
-status = 200
-force = true
+  from = "/chencho/*"
+  to = "https://dynamic-toffee-ff8eaa.netlify.app/chencho/:splat"
+  status = 200
+  force = true
