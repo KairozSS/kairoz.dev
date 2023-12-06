@@ -3,8 +3,3 @@
   to = "https://chencho-27.netlify.app/:splat"
   status = 200
   force = true
-
-[[redirects]]
-  from = "/*"
-  to = "https://chencho-27.netlify.app/:splat"
-  status = 301
