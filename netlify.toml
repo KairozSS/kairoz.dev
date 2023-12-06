@@ -3,3 +3,8 @@
   to = "https://chencho-27.netlify.app/:splat"
   status = 200
   force = true
+[[redirects]]
+  from = "/blog/*"
+  to = "https://inquisitive-salmiakki-2ad868.netlify.app/:splat"
+  status = 200
+  force = true
