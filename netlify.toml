@@ -5,6 +5,6 @@
   force = true
 [[redirects]]
   from = "/blog/*"
-  to = "https://melodious-starlight-533f70.app/:splat"
+  to = "https://melodious-starlight-533f70.netlify.app/:splat"
   status = 200
   force = true
